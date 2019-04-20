@@ -87,4 +87,4 @@ public class DeadlockApplication implements SampleApplication {
                 ", delay=" + delay +
                 '}';
     }
-}
+} // end of class
